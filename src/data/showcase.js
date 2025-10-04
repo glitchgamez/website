@@ -1,5 +1,10 @@
 export default [
     {
+        title: "Glitch Moviez, Anime & Manga",
+        summary: "Discover, stream and download your favorite movies, tv shows, and anime",
+        imageUrl: "https://moviez.glitchify.space/icons/glitch-moviez.png",
+        url: "https://moviez.glitchify.space/" ,
+    {
         title: "Anime Flow",
         summary: "Discover anime via a flowchart",
         imageUrl: "https://animeflow.netlify.app/assets/flowchart_preview.min.png",
