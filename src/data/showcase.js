@@ -502,5 +502,11 @@ export default [
         summary: "An all inclusive website that lets users track everything including anime, manga and manhwa!",
         imageUrl: "https://files.catbox.moe/zb6ni3.png",
         url: "https://mymediatracker.vercel.app/",
+    },
+    {
+        title: "Glitch Moviez",
+        summary: "A website for discovering and streaming movies, TV Shows and Anime",
+        imageUrl: "https://moviez.glitchify.space/icons/glitch-moviez.png",
+        url: "https://moviez.glitchify.space/",
     }
 ]
